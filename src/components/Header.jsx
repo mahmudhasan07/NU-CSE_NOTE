@@ -8,6 +8,5 @@ export default function Header() {
       <h1>Anik Chandra Das-changes</h1>
       <h1>Sakib Mahmud</h1>
     </div>
-    using github
   )
 }
